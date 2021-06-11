@@ -373,7 +373,7 @@ export const trinket_data = [
       {
         coefficient: 3.55,
         table: -1,
-        duration: 30,
+        duration: 20,
         cooldown: 180,
       },
     ],
